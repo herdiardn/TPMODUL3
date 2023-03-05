@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.Form1.resources
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\bin\Debug\TPMOD3.exe.config
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\bin\Debug\TPMOD3.exe
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\bin\Debug\TPMOD3.pdb
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.exe
+C:\Users\ASUS\OneDrive - Telkom University\Documents\MAPEL RPL SEMESTER 4\KPL\TP\TPMOD3\obj\Debug\TPMOD3.pdb
