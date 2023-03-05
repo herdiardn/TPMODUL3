@@ -17,20 +17,23 @@ namespace TPMOD3
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            string input = button2.Text;
-            button3.Text = "Halo HerdiArdana_PRAKTIKAN";
-        }
-
+        
         private void button2_Click(object sender, EventArgs e)
         {
-
+            string input = textBox1.Text;
+            label1.Text = "Halo " + input;
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
+        
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }
